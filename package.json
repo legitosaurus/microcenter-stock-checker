@@ -1,0 +1,12 @@
+{
+  "name": "microcenter-stock-checker",
+  "version": "1.0.0",
+  "description": "Check the stock of an item at micro center",
+  "main": "index.js",
+  "repository": "https://github.com/legitosaurus/microcenter-stock-checker.git",
+  "author": "Nathan Thompson <nthompson@dega.io>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
