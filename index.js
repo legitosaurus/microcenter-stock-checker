@@ -25,4 +25,5 @@ const puppeteer = require('puppeteer');
   } else {
     console.log('Item is not stock.');
   }
+  await browser.close();
 })();
